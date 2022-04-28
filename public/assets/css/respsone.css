@@ -1,0 +1,112 @@
+/* @media only screen and (max-width: 1200px) {
+  .navigation{
+      display: flex;
+      padding: 10px;
+  }
+  .container{
+      width: 200px;
+      height: 150px;
+  }
+  .ws_images{
+      display: block;
+  }
+  #wowslider-container1 .ws_images ul{	
+	width: 0%; 
+	height:100%;
+}
+.ws_bullets{
+    padding: 10px;
+}
+.mt-2 img{
+    width: 80%;
+    padding: 10px;
+}
+}
+@media only screen and (max-width: 999px) {
+   .logo-log{
+       margin-bottom: 20px;
+   }
+   .input-view {
+        margin-left: 53%;
+    }
+    .footer-bottom{
+        padding: 0px;
+    }
+    .botom-menu{
+        width: 63rem;
+        max-width: 100%;
+        padding: 0px 0px 0px 110px;
+    }
+}
+@media only screen and (max-width: 800px) {
+   .logo-log{
+       margin-bottom: 20px;
+   }
+   .input-view {
+        margin-left: 30%;
+    }
+    .footer-bottom{
+        padding: 0px;
+    }
+    .botom-menu{
+        width: 63rem;
+        max-width: 100%;
+        padding: 0px 0px 0px 110px;
+    }
+}
+@media only screen and (max-width: 500px) {
+   .logo-log{
+       margin-bottom: 20px;
+   }
+   .input-view {
+        margin-left: 0%;
+    }
+    .footer-bottom{
+        padding: 0px;
+    }
+    .botom-menu{
+        width: 32rem;
+        max-width: 100%;
+        padding: 0px 0px 0px 30px;
+    }
+}
+@media only screen and (max-width: 600px) {
+   .logo-log{
+       margin-bottom: 20px;
+   }
+   .input-view {
+        margin-left: 10%;
+    }
+    .footer-bottom{
+        padding: 0px;
+    }
+    .botom-menu{
+        width: 38rem;
+        max-width: 100%;
+        padding: 0px 0px 0px 30px;
+    }
+}
+@media only screen and (max-width: 530px) {
+    .input-view {
+        margin-left: 5%;
+    }
+    .footer-bottom{
+        padding: 0px;
+    }
+    .botom-menu{
+        width: 33rem;
+        padding: 0px 0px 0px 40px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .input-view {
+        margin-left: 0%;
+    }
+    .footer-bottom{
+        padding: 0px;
+    }
+    .botom-menu{
+        width: 400px;
+        padding: 0px 0px 0px 25px;
+    }
+} */
